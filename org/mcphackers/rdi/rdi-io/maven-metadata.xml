@@ -3,10 +3,11 @@
   <groupId>org.mcphackers.rdi</groupId>
   <artifactId>rdi-io</artifactId>
   <versioning>
-    <latest>1.0-snapshot</latest>
+    <latest>1.0-SNAPSHOT</latest>
     <versions>
       <version>1.0-snapshot</version>
+      <version>1.0-SNAPSHOT</version>
     </versions>
-    <lastUpdated>20230407213629</lastUpdated>
+    <lastUpdated>20230705221508</lastUpdated>
   </versioning>
 </metadata>
