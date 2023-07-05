@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.mcphackers.rdi</groupId>
+  <artifactId>rdi-nio</artifactId>
+  <versioning>
+    <latest>1.0-snapshot</latest>
+    <versions>
+      <version>1.0-snapshot</version>
+    </versions>
+    <lastUpdated>20230407213629</lastUpdated>
+  </versioning>
+</metadata>
